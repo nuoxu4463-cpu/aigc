@@ -1,0 +1,18 @@
+.DS_Store
+
+# Runtime logs
+logs/
+*.log
+
+# Generated media and bulky previews
+video/
+output-preview/
+storyboard/
+
+# Local dependency folders
+node_modules/
+project-docs/node_modules/
+
+# Nested/local project metadata
+project-docs/.git/
+
