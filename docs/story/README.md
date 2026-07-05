@@ -6,3 +6,6 @@
 
 - [Project Edenfall 世界观设定](./project-edenfall-world-bible.md)
 
+## Chapters
+
+- [Chapter 1 · Ash Slums · Cold Open](./chapters/chapter-01-ash-slums-cold-open.md)
